@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-typescript-task-manager/static/css/main.e6c13ad2.css",
+    "main.js": "/react-typescript-task-manager/static/js/main.be8cf7cd.js",
+    "index.html": "/react-typescript-task-manager/index.html",
+    "main.e6c13ad2.css.map": "/react-typescript-task-manager/static/css/main.e6c13ad2.css.map",
+    "main.be8cf7cd.js.map": "/react-typescript-task-manager/static/js/main.be8cf7cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.be8cf7cd.js"
+  ]
+}
